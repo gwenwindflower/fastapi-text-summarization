@@ -1,0 +1,4 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.defaultInterpreterPath": "/Users/grant/dev/fastapi-tdd-docker/project/.venv/bin/python"
+}
